@@ -21,7 +21,7 @@ repository               : "NepiaExtra/research-website.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio.jpg"
   name             : "Wen LI"
   pronouns         : "she/her"  
   bio              : "My research area is labor economics. Currently, I am interested in issues related to intergenerational mobility, higher education, and inequality of opportunity."
