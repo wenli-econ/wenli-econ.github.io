@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wen LI / Site Title"
+title                    : "Wen LI"
 title_separator          : "-"
 name                     : &name "Wen LI"
 description              : &description "Ph.D. in Economics, specializing in labor economics"
-url                      : "https://WenLI.github.io" 
+url                      : "https://github.com/nepiaextra/WenLI" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NepiaExtra//WenLI.github.io"
 
