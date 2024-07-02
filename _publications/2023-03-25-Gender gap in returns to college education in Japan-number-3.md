@@ -1,9 +1,8 @@
 ---
 title: "Gender gap in returns to college education in Japan: The impact of attending a highly-ranked college"
 collection: publications
-permalink: /publication/2023-01-01-gender-gap-returns-college-education-japan
-excerpt: 'This paper investigates the gender gap in returns to college education in Japan, with a focus on the impact of attending a highly-ranked college.'
-date: 2023-01-01
+permalink: /publication/2023-03-25-gender-gap-returns-college-education-japan
+date: 2023-03-25
 venue: 'Social Science Japan Journal'
 paperurl: 'https://academic.oup.com/ssjj/article-abstract/26/1/61/7085995?redirectedFrom=PDF'
 citation: 'Li, W., Urakawa, K., and Suga, F. (2023). "Gender gap in returns to college education in Japan: The impact of attending a highly-ranked college." <i>Social Science Japan Journal</i>, 26(1), 61-76.'
