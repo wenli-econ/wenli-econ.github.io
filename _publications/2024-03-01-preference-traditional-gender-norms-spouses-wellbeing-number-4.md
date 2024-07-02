@@ -2,7 +2,6 @@
 title: "Preference for Traditional Gender Norms and Spouses' Subjective Well-Being"
 collection: publications
 permalink: /publication/2024-03-01-preference-traditional-gender-norms-spouses-wellbeing
-excerpt: 'This paper explores the relationship between preferences for traditional gender norms and subjective well-being among spouses.'
 date: 2024-03-01
 venue: 'Studies in Applied Economics'
 paperurl: 'https://www.keisoshobo.co.jp/book/b644599.html'
