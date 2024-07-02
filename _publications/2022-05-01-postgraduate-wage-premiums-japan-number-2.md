@@ -2,7 +2,6 @@
 title: "日本における大学院賃金プレミアム (Postgraduate Wage Premiums in Japan)"
 collection: publications
 permalink: /publication/2022-05-01-postgraduate-wage-premiums-japan
-excerpt: 'This paper examines postgraduate wage premiums in Japan.'
 date: 2022-05-01
 venue: '日本労働研究雑誌 (The Japanese Journal of Labour Studies)'
 paperurl: 'https://www.jil.go.jp/institute/zassi/backnumber/2022/05/pdf/064-080.pdf'
