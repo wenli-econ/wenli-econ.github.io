@@ -1,8 +1,8 @@
 ---
 title: "Preference for Traditional Gender Norms and Spouses' Subjective Well-Being"
 collection: publications
-permalink: /publication/2024-03-01-preference-traditional-gender-norms-spouses-wellbeing
-date: 2024-03-01
+permalink: /publication/2024-04-01-preference-traditional-gender-norms-spouses-wellbeing
+date: 2024-04-01
 venue: 'Studies in Applied Economics'
 paperurl: 'https://www.keisoshobo.co.jp/book/b644599.html'
 citation: "Li, W. (2024). \"Preference for Traditional Gender Norms and Spouses' Subjective Well-Being.\" <i>Studies in Applied Economics</i>, 16, 1-17."
