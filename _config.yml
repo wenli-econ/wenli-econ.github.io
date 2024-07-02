@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Wen LI"
+title                    : "Wen LI"
 name                     : &name "Wen LI"
 description              : &description "Your academic profile description"
 url                      : https://nepiaextra.github.io
@@ -20,7 +20,7 @@ repository               : "nepiaextra/WenLI"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio.jpg"
+  avatar           : "profile.png"
   name             : "Wen LI"
   pronouns         : "she/her"  
   bio              : "My research area is labor economics. Currently, I am interested in issues related to intergenerational mobility, higher education, and inequality of opportunity."
