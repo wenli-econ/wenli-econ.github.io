@@ -11,11 +11,10 @@ redirect_from:
 
 Contact Information
 ======
-* 5-13-24-501, Watanabedori, Chuo-ku, Fukuoka, Japan 810-0004
+* 744 Motooka Nishi-ku, Fukuoka, Japan 819-0395
 * Female
-* Date of Birth: 1994.08.11
-* Phone: 080-8867-9100
-* Email: Wenli11108@gmail.com
+* Phone: 092-802-5575
+* Email: wenli11108@gmail.com
 
 Education
 ======
@@ -30,12 +29,7 @@ Education
 Experience
 ======
 * Post-doctoral Researcher, Institute of Mathematics for Industry (IMI), Kyushu University, Fukuoka, Japan, June 2022 - Present
-  * Research activities in the field of labor Economics.
-  * Mentoring students and supporting project implementation as a Young Mentor in the Graduate Program of Mathematics for Innovation.
-  * Supported faculty with organization of the documentation and administrative tasks.
 * Research Fellow, Faculty of Economics, Kyushu University, Fukuoka, Japan, Oct 2021 - May 2022
-  * Supported faculty with organization of the documentation and administrative tasks.
-  * Performed statistical analysis on data sets using Excel and STATA.
 
 Awards
 ======
