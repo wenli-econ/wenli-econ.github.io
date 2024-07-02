@@ -1,4 +1,15 @@
 ---
+layout: archive
+title: "Talks and Presentations"
+permalink: /talks/
+author_profile: true
+---
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+---
 title: "Do social norms overpower relative income? Evidence from Japan and the U.S."
 collection: talks
 permalink: /talks/2019-06-16-talk-1
