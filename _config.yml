@@ -8,13 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wen LI"
-title_separator          : "-"
+title                    : "Dr. Wen LI"
 name                     : &name "Wen LI"
-description              : &description "Ph.D. in Economics, specializing in labor economics"
-url                      : "https://github.com/nepiaextra/WenLI" 
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "NepiaExtra//WenLI.github.io"
+description              : &description "Your academic profile description"
+url                      : https://nepiaextra.github.io
+baseurl                  : "/WenLI"
+repository               : "nepiaextra/WenLI"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
