@@ -11,9 +11,9 @@ locale                   : "en-US"
 title                    : "Wen LI"
 name                     : &name "Wen LI"
 description              : &description "Your academic profile description"
-url                      : https://nepiaextra.github.io
+url                      : "https://wenli-econ.github.io"
 baseurl                  : "/WenLI"
-repository               : "nepiaextra/WenLI"
+repository               : "wenli/WenLI"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
