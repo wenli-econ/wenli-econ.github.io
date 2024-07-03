@@ -6,7 +6,7 @@ redirect_from:
   - /about/
 ---
 
-Welcome to my academic corner! I'm a postdoctoral researcher at the Institute of Mathematics for Industry (IMI), Kyushu University, where I earned my Ph.D. in Economics in 2022. My research journey in labor economics has led me to explore fascinating intersections of social norms, labor participation, returns to education, and gender gaps. Currently, I'm diving deep into the realms of inequality of opportunity and intergenerational mobility.
+Welcome to my academic corner! I'm a postdoctoral researcher at the Institute of Mathematics for Industry (IMI), Kyushu University, where I earned my Ph.D. in Economics in 2021. My research journey in labor economics has led me to explore fascinating intersections of social norms, labor participation, returns to education, and gender gaps. Currently, I'm diving deep into the realms of inequality of opportunity and intergenerational mobility.
 
 As a younger mentor, I have the privilege of engaging with brilliant Ph.D. students. This role is less about traditional 'mentoring' and more about mutual growth and idea exchange. While I offer guidance, I often find myself inspired and enlightened by these bright minds.
 
