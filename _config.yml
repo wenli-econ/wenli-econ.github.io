@@ -23,7 +23,7 @@ author:
   avatar           : "bio.jpg"
   name             : "Wen LI"
   pronouns         : #"she/her"  
-  bio              : "Postdoc, Labor Economics"
+  bio              : "Lecturer, Graduate School of Information Science and Electrical Engineering"
   location         : "Japan"
   employer         : "Kyushu University"
   uri              : # URL
@@ -36,6 +36,7 @@ author:
   semantic         : # URL
   pubmed           : # URL
   googlescholar    : "https://scholar.google.com/citations?user=TiJoaZwAAAAJ&hl=en"
+  researchmap      : "https://researchmap.jp/liwen"
   researchgate     : "https://www.researchgate.net/profile/Wen-Li-199"
 
   # Repositories and software development
