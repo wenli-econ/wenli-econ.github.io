@@ -13,7 +13,7 @@ Contact Information
 ======
 * 744 Motooka Nishi-ku, Fukuoka, Japan 819-0395
 * Female
-* Phone: 092-802-5575
+* Phone: 092-802-5498
 * Email: wenli11108@gmail.com
 
 Education
@@ -28,7 +28,8 @@ Education
 
 Experience
 ======
-* Post-doctoral Researcher, Institute of Mathematics for Industry (IMI), Kyushu University, Fukuoka, Japan, June 2022 - Present
+* Lecturer, Graduate School of Information Science & Electrical Engineeri, Kyushu University, Fukuoka, Japan — Apr 2025 – Present
+* Post‑doctoral Researcher, Institute of Mathematics for Industry (IMI), Kyushu University, Fukuoka, Japan — Jun 2022 – Mar 2025
 * Research Fellow, Faculty of Economics, Kyushu University, Fukuoka, Japan, Oct 2021 - May 2022
 
 Awards
