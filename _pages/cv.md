@@ -11,13 +11,18 @@ redirect_from:
 
 Contact Information
 ======
-* 744 Motooka Nishi-ku, Fukuoka, Japan 819-0395
-* Female
-* Phone: 092-802-5498
+
+* Kyushu University, Fukuoka, Japan
 * Email: wenli11108@gmail.com
+
+Research Interests
+======
+
+* Applied Economics; Labor Economics; Gender Inequality; Social Norms; Family Caregiving; Returns to Education; Intergenerational Mobility; Subjective Well-being
 
 Education
 ======
+
 * Ph.D. in Economics, Kyushu University, Fukuoka, Japan, Sep 2021
   * Major in Economic Engineering
 * M.A. in Economics, Kyushu University, Fukuoka, Japan, Sep 2018
@@ -28,41 +33,45 @@ Education
 
 Experience
 ======
-* Lecturer, Graduate School of Information Science & Electrical Engineeri, Kyushu University, Fukuoka, Japan — Apr 2025 – Present
-* Post‑doctoral Researcher, Institute of Mathematics for Industry (IMI), Kyushu University, Fukuoka, Japan — Jun 2022 – Mar 2025
-* Research Fellow, Faculty of Economics, Kyushu University, Fukuoka, Japan, Oct 2021 - May 2022
+
+* Lecturer, Graduate School of Information Science and Electrical Engineering, Kyushu University, Fukuoka, Japan — Apr 2025 – Present
+* Post-doctoral Researcher, Institute of Mathematics for Industry (IMI), Kyushu University, Fukuoka, Japan — Jun 2022 – Mar 2025
+* Research Fellow, Faculty of Economics, Kyushu University, Fukuoka, Japan — Oct 2021 – May 2022
 
 Awards
 ======
+
 * Encouragement Award, Japan Association for Applied Economics, June 11, 2023
 
 Skills
 ======
-* Language & Software: STATA, R, Python, SQL, Tableau, EViews, LaTeX, Microsoft Office
-* Certifications: Google Data Analytics, IBM Data Analysis with Python
+
+* Software: Stata, R, Python, SQL, Tableau, EViews, LaTeX, Microsoft Office
+* Certifications: Google Data Analytics; IBM Data Analysis with Python
 
 Languages
 ======
-* Native in Mandarin
-* Fluent in English (TOEIC: 930)
-* Fluent in Japanese (N1: 126)
+
+* Mandarin: Native
+* English: TOEIC 930
+* Japanese: JLPT N1
 
 Affiliations
 ======
+
 * The Japanese Economic Association
 * Japan Association for Applied Economics
 
 Publications
 ======
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+
+{% for post in site.publications reversed %}
+{% include archive-single-cv.html %}
+{% endfor %}
 
 Talks
 ======
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
 
-
-
+{% for post in site.talks reversed %}
+{% include archive-single-talk-cv.html %}
+{% endfor %}

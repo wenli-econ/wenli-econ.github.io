@@ -2,12 +2,14 @@
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
 ---
 
-Welcome to my academic corner!  I’m currently a Lecturer at the Graduate School of Information Science and Electrical Engineering (Institute of Systems Information Science), Kyushu University, where I also earned my Ph.D. in Economics in 2021. My research journey in labor economics has led me to explore fascinating intersections of social norms, labor participation, returns to education, and gender gaps. Currently, I'm diving deep into the realms of inequality of opportunity and intergenerational mobility.
+Welcome to my academic website. I am a Lecturer at the Graduate School of Information Science and Electrical Engineering, Kyushu University. I received my Ph.D. in Economics from Kyushu University in 2021.
 
-Research is exhilarating, but the feedback loop can be lengthy. When I'm not immersed in academic pursuits, you might find me enjoying manga or video games, crafting and creating, or experimenting in the kitchen. And yes, like many academics, I've perfected the art of room organization as a "productive" form of pre-writing preparation!
+My research lies in applied economics and labor economics, with a focus on gender inequality, social norms, labor-market outcomes, returns to education, family caregiving, and intergenerational mobility. I use microdata and empirical methods to examine how institutions, social norms, and family background shape individual economic outcomes and well-being.
 
-If you're intrigued by my research or just want to chat about the best manga/video game for the season, don't hesitate to reach out. I'm always open to research collaborations, academic discussions, or even sharing cleaning tips!
+At Kyushu University, I teach courses related to data science, social informatics, and economics. I am also interested in making empirical methods accessible to students from different disciplinary backgrounds.
+
+Please feel free to contact me regarding research collaborations, seminar invitations, or academic discussions.
